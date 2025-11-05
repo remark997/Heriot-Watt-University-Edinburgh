@@ -1,9 +1,5 @@
 # 1. Exploring Twitter API  and tweets
 
-This tutorial taught by \[Hao Zhang]\([University of Glasgow - Schools - Adam Smith Business School - Our staff - Mr Hao Zhang](https://www.gla.ac.uk/schools/business/staff/haozhang/)) focuses on introducing the syntax of python, data types, and data structure.
-
-Specifically, the code can be found in the tutorial pages
-
 ## Outlines
 
 * \[Create Twitter developer account]\([Twitter API Documentation | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-api))

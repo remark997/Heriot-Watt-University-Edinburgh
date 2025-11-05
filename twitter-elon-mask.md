@@ -1,13 +1,4 @@
-# Group report
-
-## Twitter Elon Mask
-
-you can give a brief of report, some backgrounds, motivations, interesting insights. \[word count: less than 300 words]
-
-* Group members (you can link to your personal page or IG....)
-* This report is supervised by [Prof. Cathy Yi-Hsuan Chen](https://www.gla.ac.uk/schools/business/staff/cathyyi-hsuanchen/)
-
-Specifically, the code can be found in the [Github](https://github.com/XXXX)
+# Twitter Elon Mask
 
 ## Outlines
 
